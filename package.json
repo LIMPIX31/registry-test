@@ -1,6 +1,10 @@
 {
   "name": "registry-test",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LIMPIX31/registry-test.git"
+  },
   "workspaces": [
     "registry-test"
   ]
