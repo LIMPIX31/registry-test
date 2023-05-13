@@ -1,0 +1,7 @@
+{
+  "name": "registry-test",
+  "private": true,
+  "workspaces": [
+    "registry-test"
+  ]
+}
